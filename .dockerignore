@@ -1,0 +1,7 @@
+.git
+.env.test
+.env.example
+.env
+dist
+node_modules
+.vscode
